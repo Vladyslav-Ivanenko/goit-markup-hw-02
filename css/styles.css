@@ -43,6 +43,9 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+address {
+  font-style: normal;
+}
 .nav-item .link:hover,
 .nav-item .link:focus {
   font-weight: 500;
